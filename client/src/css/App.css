@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg {
+  height: 100vh;
+  position: relative;
+  margin-top: 20px;
+  -webkit-box-shadow: -2px 0px 12px 0px rgba(0, 0, 0, 0.349);
+  -moz-box-shadow: -2px 0px 12px 0px rgba(0, 0, 0, 0.459);
+  box-shadow: -2px 0px 12px 0px rgba(0, 0, 0, 0.568);
+}
+
+.title {
+  font-family: "Amatic SC", cursive;
+  font-size: 7rem;
+  color: rgb(6, 95, 13);
+  font-weight: bold;
+}
+
+.input ::placeholder {
+  text-align: center;
+}
+
+.textarea {
+  min-height: 8rem;
+}
+
+.login-bg {
+  background-image: url("../images/loginbg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.login-bg .authTitle h1 {
+  color: white;
+}
+
+.register-bg {
+  background-image: url("../images/cakebg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.authContainer {
+  -webkit-box-shadow: -2px 0px 12px 0px rgba(0, 0, 0, 0.35);
+  -moz-box-shadow: -2px 0px 12px 0px rgba(0, 0, 0, 0.35);
+  box-shadow: -2px 0px 12px 0px rgba(0, 0, 0, 0.35);
+  background: rgba(255, 255, 255, 0.637);
+  position: absolute;
+  left: 40;
+}
+.authTitle {
+  margin-right: 300px;
+  position: relative;
+}
+.authTitle h1 {
+  position: absolute;
+  font-size: 8rem;
+  font-family: "Amatic SC", cursive;
+}
+
+.home {
+  background-image: url("../images/food2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.recipeImg {
+  background-image: url("../images/recipe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.box {
+  background-color: rgb(219, 217, 217);
+  margin-top: 30px;
+  padding: 10px;
+  -webkit-box-shadow: -2px 0px 12px 0px rgba(0, 0, 0, 0.35);
+  -moz-box-shadow: -2px 0px 12px 0px rgba(0, 0, 0, 0.35);
+  box-shadow: -2px 0px 12px 0px rgba(0, 0, 0, 0.35);
+}
+
+.header {
+  background-color: rgb(211, 230, 207);
+}

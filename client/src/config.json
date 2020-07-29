@@ -1,0 +1,13 @@
+{
+  "myUrl": "http://localhost:8181/api",
+  "swal": {
+    "title": "מחיקת מתכון",
+    "text": "האם אתה בטוח?",
+    "icon": "warning",
+    "showCancelButton": true,
+    "confirmButtonColor": "#3085d6",
+    "cancelButtonColor": "#d33",
+    "confirmButtonText": "כן",
+    "cancelButtonText": "לא"
+  }
+}
