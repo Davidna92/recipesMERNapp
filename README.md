@@ -15,7 +15,7 @@ some pics...
 
 
 
-#Things to improve:
+#Things to improve/add:
 
-1. add rating for each app
+1. add rating for each recipe
 2. web design
