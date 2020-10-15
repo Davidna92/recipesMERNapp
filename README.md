@@ -1,5 +1,6 @@
 # recipesMERNapp
-Recipes MERN app (auth, CRUD, users) Reactjs, node express, mongodb
+One of my little projects - 
+Simple Recipes MERN app (auth, CRUD, users) Reactjs, node express, mongodb
 
 
 
